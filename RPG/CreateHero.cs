@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace RPG
 {
-    class Program
+    class CreateHero
     {
 
-    public static void Main(string[] args)
-    {
-        Methods myObject = new Methods();
-        myObject.Menu();
     }
-  }
 }
