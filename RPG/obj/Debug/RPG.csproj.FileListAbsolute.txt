@@ -1,1 +1,5 @@
 c:\users\caarroniz\documents\visual studio 2013\Projects\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\caarroniz\Documents\Visual Studio 2013\Projects\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\caarroniz\Documents\Visual Studio 2013\Projects\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\caarroniz\Documents\Visual Studio 2013\Projects\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\caarroniz\Documents\Visual Studio 2013\Projects\RPG\RPG\obj\Debug\RPG.pdb

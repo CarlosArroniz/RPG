@@ -8,12 +8,14 @@ namespace RPG
 {
     class Program
     {
+
+        
+
         static void Main(string[] args)
         {
-
-
-
-
+            Methods myMethod = new Methods();
+            myMethod.Menu();
+            Console.ReadKey();
         }
     }
 }
